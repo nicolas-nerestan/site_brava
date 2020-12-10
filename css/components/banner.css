@@ -1,0 +1,14 @@
+.banner {background-image: url(../../images/DSC_0114.JPG);
+		background-size: cover;
+		background-position: center;
+		color: white;
+		padding: 150px 0px;}
+
+.banner h1{font-size: 50px;
+			color:#AA4742;
+			text-align: center;}
+
+.banner h2{font-size: 30px;
+			color: #ECCE8D;
+			font-weight: lighter;
+			margin-bottom: 50px; }
